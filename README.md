@@ -1,1 +1,1 @@
-# Vignite_EventPage.github.io
+# Vignite_EventPage
